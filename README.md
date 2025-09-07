@@ -72,7 +72,7 @@ I started in **network and cloud administration (Cisco, Juniper, Mikrotik, Palo 
 ![Trellix](https://img.shields.io/badge/Trellix%20DLP-%232A2A2A?logo=trellix&logoColor=white)
 
 **Hands-on SSE/SASE deployments**  
-- **Netskope SSE** → SWG, CASB, ZTNA, DLP, EPDLP, Cloud Firewall, Private Access (CEP), ATP, Bandwidth Mgmt (BWAN), Advanced Analytics.  
+- **Netskope SSE** → SWG, CASB, ZTNA, DLP, EPDLP, Cloud Firewall, Cloud Explicit Proxy (CEP), ATP, BWAN, Advanced Analytics.  
 - **Prisma Access** → NGFW Cloud, GlobalProtect ZTNA, App-ID, Threat Prevention, URL Filtering, SD-WAN integrations.  
 - **Cisco Umbrella** → SWG, DNS Security, Cloud Delivered Firewall.  
 - **Trellix DLP** → legacy infra integrated into Netskope EPDLP.
@@ -90,8 +90,7 @@ I started in **network and cloud administration (Cisco, Juniper, Mikrotik, Palo 
 - Routing & Switching: OSPF, BGP, HSRP, VRF, NAC, ACLs, Spanning Tree, Port Security.  
 - Firewalls: Palo Alto NGFW, ASA, Check Point.  
 - SD-WAN site implementations (Cisco Viptela, Prisma SD-WAN).  
-- Monitoring: SolarWinds, Nagios, Cacti.
-
+- Monitoring: SolarWinds, Nagios, Cacti, Zabbix.
 ---
 
 ### ☁️ Cloud & Virtualization
@@ -168,13 +167,12 @@ I started in **network and cloud administration (Cisco, Juniper, Mikrotik, Palo 
 
 ## 🌍 Clients & Strategic Sectors
 I’ve worked on **cybersecurity, networking, and cloud projects** for clients in critical sectors:
-- **Banking & Finance** → 300k+ users Netskope SSE migration
-- **Energy** → infra monitoring & Zero Trust/SASE for utilities
-- **Aeronautical & Airlines** → secure networking & aerospace projects
-- **Government & Embassies** → secure environments, segmentation, advanced protection
-- **Carriers & Telcos** → WAN/MPLS, SD-WAN, LATAM/Caribbean/N. America regional NOC
-- **Enterprise** → consulting & deployments for multinational corporations
-
+- **Banking & Finance**
+- **Energy**
+- **Aeronautical & Airlines** 
+- **Government & Embassies** 
+- **Carriers & Telcos**
+- 
 ---
 
 ## 🎓 Certifications (selection)
