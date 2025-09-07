@@ -207,9 +207,8 @@ I also love **climbing 🧗, trekking 🥾, CrossFit 🏋️, and outdoor walks 
   <img src="https://img.shields.io/badge/Focus-SSE%2FSASE%20%7C%20Automation-3AB0FF?style=for-the-badge">
 </p>
 
-<!-- WakaTime section (to enable later) -->
-<!--
 ### ⏱️ Coding Activity (WakaTime)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
