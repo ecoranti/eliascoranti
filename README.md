@@ -212,9 +212,10 @@ I also love **climbing 🧗, trekking 🥾, CrossFit 🏋️, and outdoor walks 
 ### ⏱️ Coding Activity (WakaTime)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
--->
+
+---
 
 ### 📸 Signature
 <p align="center">
-  <img src="TU-FOTO.png" alt="Elias Coranti" width="150" style="border-radius:50%;" />
+  <img src="picture.png" alt="Elias Coranti" width="150" style="border-radius:50%;" />
 </p>
