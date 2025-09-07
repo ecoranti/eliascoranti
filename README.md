@@ -190,33 +190,26 @@ Outside of work, I enjoy spending time with my **family 👨‍👩‍👧‍�
 I also love **climbing 🧗, trekking 🥾, CrossFit 🏋️, and outdoor walks 🚶** — anything that keeps me moving and connected with nature.
 
 ---
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-  <!-- Fila 1: Stats + Streak -->
   <table>
     <tr>
       <td>
         <img
-          src="https://github-readme-stats-rho-inky-42.vercel.app/api?username=ecoranti&show_icons=true&include_all_commits=true&count_private=true&private_contributions=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=3600"
+          src="https://github-readme-stats-rho-inky-42.vercel.app/api?username=ecoranti&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=3600"
           alt="Elias Coranti — GitHub Stats" height="170">
       </td>
       <td>
         <img
-          src="https://streak-stats.demolab.com?user=ecoranti&theme=tokyonight&hide_border=true"
-          alt="Contribution Streak" height="170">
+          src="https://github-readme-stats-rho-inky-42.vercel.app/api/top-langs/?username=ecoranti&layout=compact&langs_count=8&hide=HTML,Jupyter%20Notebook,TeX&hide_border=true&theme=tokyonight&cache_seconds=3600"
+          alt="Top Languages" height="170">
       </td>
     </tr>
   </table>
 
-  <!-- Fila 2: Top Languages (compact) -->
-  <br/>
-  <img
-    src="https://github-readme-stats-rho-inky-42.vercel.app/api/top-langs/?username=ecoranti&layout=compact&langs_count=8&hide=HTML,Jupyter%20Notebook,TeX&hide_border=true&theme=tokyonight&cache_seconds=3600"
-    alt="Top Languages" height="170">
-
-  <br/><sub><i>Stats from private instance (includes private contributions).</i></sub>
 </div>
 
 ---
