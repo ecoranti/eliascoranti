@@ -217,7 +217,7 @@ I also love **climbing 🧗, trekking 🥾, CrossFit 🏋️, and outdoor walks 
 
 ### 📸 Signature
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/eliascoranti" 
+  <img src="https://avatars.githubusercontent.com/ecoranti" 
        alt="Elias Coranti" 
        width="200" 
        style="border-radius:50%;" />
