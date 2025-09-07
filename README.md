@@ -190,27 +190,34 @@ Outside of work, I enjoy spending time with my **family 👨‍👩‍👧‍�
 I also love **climbing 🧗, trekking 🥾, CrossFit 🏋️, and outdoor walks 🚶** — anything that keeps me moving and connected with nature.
 
 ---
-
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ecoranti&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecoranti&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=ecoranti&theme=tokyonight&hide_border=true" />
-</p>
+  <!-- Fila 1: Stats + Streak -->
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats-rho-inky-42.vercel.app/api?username=ecoranti&show_icons=true&include_all_commits=true&count_private=true&private_contributions=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=3600"
+          alt="Elias Coranti — GitHub Stats" height="170">
+      </td>
+      <td>
+        <img
+          src="https://streak-stats.demolab.com?user=ecoranti&theme=tokyonight&hide_border=true"
+          alt="Contribution Streak" height="170">
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Enterprise%20Work-Primarily%20Private-7B61FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-SSE%2FSASE%20%7C%20Automation-3AB0FF?style=for-the-badge">
-</p>
+  <!-- Fila 2: Top Languages (compact) -->
+  <br/>
+  <img
+    src="https://github-readme-stats-rho-inky-42.vercel.app/api/top-langs/?username=ecoranti&layout=compact&langs_count=8&hide=HTML,Jupyter%20Notebook,TeX&hide_border=true&theme=tokyonight&cache_seconds=3600"
+    alt="Top Languages" height="170">
 
-### ⏱️ Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  <br/><sub><i>Stats from private instance (includes private contributions).</i></sub>
+</div>
 
 ---
 
