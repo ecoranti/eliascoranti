@@ -189,29 +189,6 @@ I also love **climbing 🧗, trekking 🥾, CrossFit 🏋️, and outdoor walks 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats-rho-inky-42.vercel.app/api?username=ecoranti&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=3600"
-          alt="Elias Coranti — GitHub Stats" height="170">
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats-rho-inky-42.vercel.app/api/top-langs/?username=ecoranti&layout=compact&langs_count=8&hide=HTML,Jupyter%20Notebook,TeX&hide_border=true&theme=tokyonight&cache_seconds=3600"
-          alt="Top Languages" height="170">
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
 ### 📸 Signature
 <p align="center">
   <img src="https://avatars.githubusercontent.com/ecoranti" 
